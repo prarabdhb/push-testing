@@ -1,0 +1,20 @@
+{
+  "short_name": "Push Testing",
+  "name": "Push Testing",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "white",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1c93ff",
+  "gcm_sender_id": "103953800507",
+  "gcm_user_visible_only": true,
+  "permissions": ["gcm"]
+}
